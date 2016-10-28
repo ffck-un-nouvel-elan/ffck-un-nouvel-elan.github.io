@@ -1,46 +1,79 @@
 url: https://ffck-un-nouvel-elan.github.io
-baseurl: 
+baseurl:
 
 # Site settings
 title: FFCK Un nouvel élan
-email: your-email@domain.com
+email: zoungrana.jean@orange.fr
 description: "Candidature de Jean Zoungrana et son équipe à la présidence de la FFCK 2016"
 
 
 # Team names, titles and social links
 people:
-- name: Jean Zoungrana
-  pic: jean
-  position: Président
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  - name: Jean Zoungrana
+    pic: jean
+    position: Président
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: stack-overflow
+        url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  - name: Anne-Laure Viard
+    pic: anne-laure
+    position: Trésorière
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: linkedin
+        url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  - name: Emmanuel Girard
+    pic: emmanuel
+    position: Secrétaire Général
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: google-plus
+        url: #
+
+  - name: Julien Gaspard
+    pic: julien
+    position: Vice président
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: stack-overflow
+        url: #
+
+  - name: Françoise Seiler
+    pic: françoise
+    position: Vice président
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: linkedin
+        url: #
+
+  - name: Vincent Lecrubier
+    pic: vincent
+    position: Vice président
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: google-plus
+        url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
