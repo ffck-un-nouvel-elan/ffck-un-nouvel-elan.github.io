@@ -1,6 +1,6 @@
 ---
 title: Françoise Seiler
-subtitle: Vice Président
+subtitle: Vice Présidente
 layout: page
 modal-id: VicePresident2
 date: 2016-10-26
