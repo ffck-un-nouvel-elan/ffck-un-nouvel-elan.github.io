@@ -26,7 +26,7 @@ comments: true
   - Le développement de certaines de nos activités et disciplines doit se faire en partenariat avec certaines fédérations—.
   - Nous avons des réseaux qu’il faut mieux identifier et faire vivre lorsqu’ils existent et qu’il faut créer lorsqu'ils sont à l’état latent.
   - Le canoë-kayak en France fait partie de ces disciplines sportives qui disposent d’un large réseau aux seins d’institutions publiques ou privées. Anciens cadres techniques, cadres de la fonction publique territoriale ou cadres au sein de grands groupes, ces kayakistes constituent un véritable vivier pour notre fédération et restent très attachés au canoë-kayak. Leur donner une place au sein de nos projets sera un moyen de bénéficier de leurs compétences.
-  - L’accueil de manifestations internationales est aussi un moyen permettant d’être présent sur la scène internationale.—ex: Championnats du monde de Kayak Polo à ThuryHarcourt 2014/ championnats du monde de slalom à Pau en 2017.
+  - L’accueil de manifestations internationales est aussi un moyen permettant d’être présent sur la scène internationale.—ex: Championnats du monde de Kayak Polo à Thury Harcourt 2014/ championnats du monde de slalom à Pau en 2017.
 
 ### Comment
 

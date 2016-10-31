@@ -13,7 +13,7 @@ comments: true
 ### Nos priorités
 
   - Agir sur les leviers économiques directs et indirects nous permettant
-  - D’augmenternosressourcespropres:
+  - D’augmenter nos ressources propres:
     - Accroitre nos partenariats.
     - Augmenter le nombre de licenciés—fidéliser nos adhérents.
     - Développer l’offre de services et de produits en ligne.

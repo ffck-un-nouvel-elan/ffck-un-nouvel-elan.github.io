@@ -65,16 +65,15 @@ Une dizaine de disciplines et pratiques différentes —Slalom, Descente, cours
   - **Environ 445 emplois temps plein** —Source AG 2015-
   - **Un corps arbitral et d’officiels** : 1634 juges et Arbitres au sein de la FFCK, pour 2015/2016 —Source déclaration à l'AFCAM–
 
-#### Nos ressources financieres
+#### Nos ressources financières
 
 Elles sont caractérisées par:
 
-  - **Une forte dépendance aux aides publiques** qui représen-
-tent 51% des recettes -Source AG 2015-
+  - **Une forte dépendance aux aides publiques** qui représentent 51% des recettes -Source AG 2015-
   - **Des ressources propres limitées au regard du nombre de licenciés**. Les adhésions représentent 31% des recettes -Source AG 2015-
   - **Des partenariats fidèles et de qualité mais en nombre restreint** —EDF, MAIF-
 
-### Quelques problematiques induites
+### Quelques problématiques induites
 
   - **Une grande diversité des missions à assumer en tant que fédération délégataires en charge de politiques publiques** : sport de haut niveau, sport santé, sport citoyen, protection de l’environnement, sécurité etc.
   - **Des pratiques qui se développent dans le cadre de structures non affiliées et non agréées** —Structures commerciales, bases de loisir–

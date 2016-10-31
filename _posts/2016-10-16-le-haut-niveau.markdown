@@ -27,7 +27,7 @@ comments: true
 
 ### Pourquoi
 
-  - Avec nos champions olympiques, l’équipage AddissonForgues, Benoit Peschier, Tony Estanguet, Emilie Fer, Denis Gargaud-Chanut, et les fers de lance de nos disciplines tels que Maxime Beaumont en course en ligne, Cindy Moreau en paracanoë, Stéphane Santamaria en descente, pour ne citer que ceux-là, même si bien d'autres le méritent, l’excellence de nos résultats doit rester une image attachée à notre fédération. Toutes nos disciplines y contribuent et cette excellence et cette image doivent être recherchées dans l’ensemble de nos disciplines.
+  - Avec nos champions olympiques, l’équipage Addisson-Forgues, Benoit Peschier, Tony Estanguet, Emilie Fer, Denis Gargaud-Chanut, et les fers de lance de nos disciplines tels que Maxime Beaumont en course en ligne, Cindy Moreau en paracanoë, Stéphane Santamaria en descente, pour ne citer que ceux-là, même si bien d'autres le méritent, l’excellence de nos résultats doit rester une image attachée à notre fédération. Toutes nos disciplines y contribuent et cette excellence et cette image doivent être recherchées dans l’ensemble de nos disciplines.
   - Il nous faut intégrer les nouvelles orientations ministérielles relatives au PPF pour la période 2017-2024.
   - L’accueil des JO de 2024 est une opportunité pour notre développement.
   - La mise en service du site de Vaires-Sur-Marne va nécessairement impacter l’organisation de notre PPF.

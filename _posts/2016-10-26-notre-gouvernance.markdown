@@ -1,6 +1,6 @@
 ---
 title: Notre gouvernance
-subtitle: Une gourvernance mieux partagee
+subtitle: Une gouvernance mieux partagée
 layout: page
 modal-id: 3
 date: 2016-10-26

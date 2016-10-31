@@ -19,13 +19,13 @@ comments: true
   - Accompagner les conseillers techniques sportifs CTSplacés auprès de la FFCK par le ministère chargé des sports et animer le réseau des cadres techniques.
   - Permettre à nos conseillers techniques sportifs de construire un projet professionnel et de mobilité au sein de la FFCK
   - Valoriser nos cadres et reconnaitre leurs compétences.
-  - Prendre en compte les effets
+  - Prendre en compte les effets:
     - du désengagement de l’Etat et la diminution du nombre
-de cadres,
-    - du redécoupage des régions,
-    - des évolutions du Projet de Performance Fédéral—PPF-,
-    - des projets de carrières,
-    - des départs à la retraite de certains de nos cadres,
+de cadres
+    - du redécoupage des régions
+    - des évolutions du Projet de Performance Fédéral—PPF-
+    - des projets de carrières
+    - des départs à la retraite de certains de nos cadres
   - Redéfinir les missions des cadres techniques au regard des orientations du projet fédéral.
   - Mettre en place une politique de recrutement en phase avec les orientations du projet fédéral.
   - Définir un projet d’organisation des services centraux adapté aux orientations du projet fédéral en concertation avec l’ensemble des personnels concernés.
@@ -33,7 +33,7 @@ de cadres,
 ### Pourquoi
 
   - Les ressources humaines (bénévoles, salariés de droits privés, agents publics) constituent la principale richesse de notre fédération. L’ensemble des compétences agrégées constituent le réel levier de développement de notre fédération et de ses structures.
-  - Noussommesconfrontésàdespolitiquespubliquesqui,au mieux, maintiennent les moyens alloués, et, dans les hypothèses les moins favorables, réduisent le nombre de cadres mis à disposition de notre fédération. Cette situation est source de crispations entre le siège et les régions et peut être aussi à l’origine de tensions entre les régions ellesmêmes.
+  - Nous sommes confrontés à des politiques publiques qui, au mieux, maintiennent les moyens alloués, et, dans les hypothèses les moins favorables, réduisent le nombre de cadres mis à disposition de notre fédération. Cette situation est source de crispations entre le siège et les régions et peut être aussi à l’origine de tensions entre les régions elles mêmes.
   - Le nombre de cadres techniques mis à disposition des régions est variable et a été impacté par le redécoupage des régions—de 0 à 5 cadres techniques selon les régions-.
   - Nos cadres ont des projets de carrière—ex: volonté d’évoluer vers des fonctions d’entraîneur ou à l’inverse de quitter ces fonctions, évolution au sein de nos services– qu’il faut prendre en compte et accompagner.
   - La nouvelle déclinaison du Projet de Performance Fédéral va impacter l’organisation de l’encadrement de nos équipes de France et de nos pôles.
@@ -59,7 +59,7 @@ de cadres,
 ### Nos priorités
 
   - Valoriser le bénévolat fédéral.
-  - Renforcer la parité —dirigeants,officiels..-
+  - Renforcer la parité —dirigeants, officiels..-
   - Former nos dirigeants, officiels, juges et cadres.
   - Veiller à la qualité des relations entre nos cadres techniques, salariés, employés et nos bénévoles.
   - Accompagner nos nouveaux dirigeants dans leurs nouvelles fonctions
@@ -82,7 +82,7 @@ de cadres,
   - Réexaminer la question de la parité dans nos instances régionales et départementales—Statuts –.
   - Identifier le nouveau réseau Présidents CDCK, CRCK. Favoriser leur lien avec le siège. Envisager en cas de besoin une présentation des structures et du fonctionnement fédéral voire une formation spécifique pour accompagner nos dirigeants dans leurs nouvelles fonctions en fonction des besoins exprimés.
 
-## Les employes et salaries de nos clubs -CDCK, CRCK-
+## Les employés et salaries de nos clubs -CDCK, CRCK-
 
 ### Nos priorités
 

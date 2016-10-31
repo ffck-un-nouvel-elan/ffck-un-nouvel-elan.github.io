@@ -4,8 +4,8 @@ subtitle: Et nos équipements
 layout: page
 modal-id: 11
 date: 2016-10-18
-img: 11 Infratructures.jpg
-thumbnail: 11 Infratructures thumbnail.jpg
+img: 11 Infrastructures.jpg
+thumbnail: 11 Infrastructures thumbnail.jpg
 category: projet
 comments: true
 ---

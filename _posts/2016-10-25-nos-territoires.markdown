@@ -1,6 +1,6 @@
 ---
 title: Nos territoires
-subtitle: Acteurs de notre developpement
+subtitle: Acteurs de notre développement
 layout: page
 modal-id: 4
 date: 2016-10-25

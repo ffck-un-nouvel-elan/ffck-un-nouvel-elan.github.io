@@ -1,6 +1,6 @@
 ---
 title: Nos clubs
-subtitle: Structures de base de notre developpement
+subtitle: Structures de base de notre développement
 layout: page
 modal-id: 5
 date: 2016-10-24
@@ -39,7 +39,7 @@ Dans la continuité des politiques fédérales menées jusqu’ici le déve
 ### Comment
 
   - Mieux identifier les besoins de nos structures— prolonger les réflexions autour de la consultation nationale des clubs en associant les différentes instances et acteurs de la FFCK—.
-  - Réexaminer notre politique en matière de labélisation :
+  - Réexaminer notre politique en matière de labéllisation :
     - Les rendre plus accessibles afin que tous les clubs puissent entrer dans une démarche de qualité et développer le sentiment d’appartenance à notre fédération —ex: EFCK— .
     - Elargir le champ des mentions de nos labels actuellement limitées à la performance. L’excellence peut être aussi recherchée dans d’autres domaines: loisir, sport santé. Faire le point de certaines tentatives—points kayak mer, points canoë nature.
   - Réexaminer notre politique tarifaire et nos services pour les membres agréés.
