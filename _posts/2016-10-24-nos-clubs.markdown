@@ -4,15 +4,60 @@ subtitle: Structures de base de notre developpement
 layout: page
 modal-id: 5
 date: 2016-10-24
-img: nos-clubs-thumbnail.jpg
-thumbnail: nos-clubs-thumbnail.jpg
+img: 05 Clubs.jpg
+thumbnail: 05 Clubs.jpg
 category: projet
 ---
 
 ### Nos priorités
 
+Dans la continuité des politiques fédérales menées jusqu’ici le développement de nos clubs reste un élément central : Nombre de structures et d’adhérents, infrastructures et équipements, projets, formation des adhérents et des cadres, emplois, labels, accueil de tous les publics, animations. Au delà de ces orientations qui font consensus, il nous parait cependant important de mettre l’accent sur les points suivants :
+
+  - Réaffirmer notre volonté de nous adresser à l’ensemble de nos clubs indépendamment de leur taille.
+  - Rendre plus accessible la démarche qualité pour les clubs et structures agréées —Ex: Label Ecole Française de Canoë-Kayak– EFCK-.
+  -  Au-delà des services, développer le concept d’«ASSISTANCE A PROJETS» pour les clubs.
+  - Elargir notre stratégie de développement aux membres agréés.
+  - Conforter l’assise financière de nos clubs et les moyens de leur développement.
+  - Renforcer les outils de communication de nos clubs.   Valoriser nos clubs organisateurs.
 
 ### Pourquoi
 
+  - La FFCK a pour mission première de fédérer et de développer la pratique du CKDA, le nombre de pratiquant(e)s, de structures, de sites de pratique qui les accueillent.
+  - Nos clubs, petits et grands, jouent un rôle important dans la dynamique des bassins de vie dans lesquels ils sont implantés. Ils contribuent au développement social, économique et environnemental de leur territoire, à la mesure de leurs moyens.
+  - Nos clubs sont en majorité des petits clubs de moins de 50 licenciés (67%): 199 clubs ont moins de 20 licenciés / 273 de 20 à 49 licenciés / 155 entre 50 et 99 licenciés / 82 ont plus de 100 licenciés (Lic Can+).
+  - Le nombre de nos clubs au cours de l’olympiade: 723 en 2012 / 728 en 2013 / 710 en 2014 / 709 en 2015. Source AG 2015-.
+  - Trop peu de clubs ont accès au label EFCK— 136 clubs en 2015 sur 709. Source AG 2015-.
+  - Peu de structures « membres agréés ».—Environ 30
+  - Nos clubs ont besoin d’une assistance pour des projets concrets ainsi que des outils adaptés pour exprimer ces projets, et des interlocuteurs bien identifiés pour les accompagner.
+  - Si 95% des clubs jugent le projet utile, 31,6% des clubs n’ont pas de projet formalisé par manque de temps. L’outil EDEN Club est peu connu (71%).—Consultation nationale des clubs-, 170 clubs ont utilisé l’outil EDEN CLUB.
+  - Les clubs expriment souvent un manque de proximité avec le siège fédéral et nos grandes régions à 12 ou 13 départements vont avoir davantage de difficulté pour maintenir les relations de proximité avec leurs clubs.
+  - Les activités qui permettent à nos clubs de générer des produits portent majoritairement sur: la location—les pratiques éducatives– l’événementiel— les pratiques de loisir et de tourisme: stages, randonnées, séances découvertes, les partenariats publics et privés. Nos actions doivent donc porter sur les moyens permettant aux clubs de développer ces activités pour conforter leurs assises financières.
+  - Environ 30% des clubs pensent que les baisses de subvention vont les affecter—source consultation nationale des clubs
+  - Nous disposons de peu d’outils de communication pour nos clubs. Le site internet fédéral est encore peu exploité par les clubs pour accroitre leur lisibilité.
 
 ### Comment
+
+  - Mieux identifier les besoins de nos structures— prolonger les réflexions autour de la consultation nationale des clubs en associant les différentes instances et acteurs de la FFCK—.
+  - Réexaminer notre politique en matière de labélisation :
+    - Les rendre plus accessibles afin que tous les clubs puissent entrer dans une démarche de qualité et développer le sentiment d’appartenance à notre fédération —ex: EFCK— .
+    - Elargir le champ des mentions de nos labels actuellement limitées à la performance. L’excellence peut être aussi recherchée dans d’autres domaines: loisir, sport santé. Faire le point de certaines tentatives—points kayak mer, points canoë nature.
+  - Réexaminer notre politique tarifaire et nos services pour les membres agréés.
+  - Réaffirmer auprès du ministère et des fédérations du nautisme, la nécessité pour toute structure proposant l’activité canoë-kayak d’être agréée ou affiliée à la FFCK— .
+  - Envisager la création d’une direction technique nationale adjointe en charge du développement et des territoires pour l'opérationnalisation de ces orientations.
+  - Soutenir le développement de nos clubs :
+    - Les services aux clubs : poursuivre le déploiement des
+services aux clubs. Centraliser les services qui peuvent l’être afin de réduire les coûts, alléger la charge de travail des CDCK, CRCK, et des clubs.
+    - Développer l’assistance à projet qui doit s’appuyer sur le TRINOME SIEGE-CRCK-CDCK et sur une politique concertée :
+      - Pour l’élaboration du projet de développement du
+club.
+      - Pour la réalisation de projets spécifiques— ex projet
+d’accueil de scolaires, développements des activités estivales etc. En complément d’EDEN-CLUB, développer des outils permettant aux clubs d’exprimer ces projets concrets souvent à court terme pour lesquels il souhaitent un accompagnement particulier –Politique d’appels à projets –.
+  - Soutenir la création de clubs et la création d’emploi au sein de nos clubs par des financements croisés—Siège—CDCK- CRCK-.
+  - Favoriser la création avec les CRCK et CDCK de FONDS DE DEVELOPPEMENT pour les clubs—prêts sans intérêts sur fonds propres plafonnés, pour le financement des projets nécessitant des investissements lourds —remorques, flottille, camion, communication..— et adapter nos statuts en conséquence.
+  - Développer les outils favorisant le sponsoring et mécénat au service de nos structures—clubs, CDCK, CRCK—ex: reconnaissance d’intérêt général permettant de recevoir des dons défiscalisés.
+  - Développer les outils de communication nécessaires à nos clubs.—services et commerce en ligne, Packs communication—.
+  - Optimiser nos frais de fonctionnement et réorienter une partie de nos moyens vers les clubs afin de ne pas faire porter l’essentiel du financement de nos politiques sur nos clubs.
+  - Fournir aux clubs les outils—règlementaires, juridiques, marketing, pédagogiques etc. leur permettant
+    - D’accueillir des scolaires
+    - De développer des activités de loisir et de tourisme Réaffirmer dans ce cadre la stratégie—1 pratiquant=1titre
+  - Valoriser les clubs organisateurs—site fédéral, AG, distinctions.

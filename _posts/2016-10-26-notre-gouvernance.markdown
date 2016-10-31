@@ -4,8 +4,8 @@ subtitle: Une gourvernance mieux partagee
 layout: page
 modal-id: 3
 date: 2016-10-26
-img: notre-gouvernance-thumbnail.jpg
-thumbnail: notre-gouvernance-thumbnail.jpg
+img: 03 Gouvernance.jpg
+thumbnail: 03 Gouvernance.jpg
 category: projet
 ---
 

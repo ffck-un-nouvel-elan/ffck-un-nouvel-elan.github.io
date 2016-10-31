@@ -4,15 +4,59 @@ subtitle: Nos espaces, sites et itinéraires de navigation
 layout: page
 modal-id: 10
 date: 2016-10-19
-img: nos-clubs-thumbnail.jpg
-thumbnail: nos-clubs-thumbnail.jpg
+img: 10 Sites de pratique.jpg
+thumbnail: 10 Sites de pratique.jpg
 category: projet
 ---
 
 ### Nos priorités
 
+  - Préserver l’accès de tous à l’eau.
+  - Renforcer notre légitimité—clubs, CDCK, CRCKdans la protection et la gestion de nos espaces sites et itinéraires de pratique.
+  - Développer le réseau des gardiens de rivières.
+  - Revoir l’organisation de nos instances au regard des enjeux liés à l’accès à l’eau, au développement et à la protection de nos ESIN. Organiser les différentes instances de notre fédération (siège, CRCK, CDCK, Club) pour permettre de dialoguer de manière efficace avec les instances en charge des milieux aquatiques (LEMA, RPP, code du sport,...).
+  - Renforcer notre présence au sein des instances de gestion de l’eau.
+  - Rendre lisibles et visibles nos ESIN—recensement, classement, labellisation, valorisation, topos guides.
+  - Communiquer sur nos ESIN pour que les pratiquants aient une meilleure lisibilité des espaces de pratique potentiels.
+  - Veiller à la préservation de l’eau, de notre environnement et de nos ESIN par des activités, un fonctionnement, des manifestations écoresponsables. Préserver un accès raisonné à nos sites de pratiques.
+  - Veiller à la sécurité de nos sites et de nos pratiquants.
+  - La question de la redevance pour l’accès à l’eau est parfois posée. Il est possible que les pouvoirs publics l’envisagent à terme. Il nous faut donc anticiper cette question et étudier l’opportunité et la faisabilité d’une telle mesure en veillant à préserver l’accès de tous à l’eau.
+  - Augmenter le niveau d'expertise de nos structures quand aux problématiques d'accès à l'eau et de sécurité de la pratique et de franchissabilité des ESIN—formations spécifiques-.
+  - Assurer une veille règlementaire pour pouvoir influer sur les textes—lois, décrets, règlements..-.
+  - Renforcer nos liens avec les structures commerciales .
+  - Réaliser un suivi juridique systématique pour nos structures.
 
 ### Pourquoi
 
+  - Les facteurs qui impactent notre accès à l’eau sont multiples : développement des pratiques des licenciés et non licenciés, pratiques commerciales -volonté accrue de limiter l’impact environnemental des activités nautiques, tendance à légiférer—
+  - La mise en place des RPP—Règlement particulier de police des eaux.—nécessite un accompagnement juridique des clubs, CDCK et CRCK.
+  - Un rapport de l'inspection générale de la Jeunesse et des sport sur « le développement des sports d’eau vive en France et leur impact sur les milieux aquatiques » préconise des mesures telles que « la régulation des flux de fréquentation au motif d’un trouble de jouissance du paysage. «
+  - Nous avons perdu la reconnaissance par le ministère de l’écologie comme Association de Protection de l’Environnement—APN-. Le conseil d'état a exclu les fédérations sportives des APN.
+  - Article R141-2 du code de l’environnement : Une association peut être agréée si...elle justifie...d’un objet statutaire ... attestant qu’elle œuvre à titre principal pour la protection de l'environnement.
+  - Les classifications de nos sites se limitent pour l’essentiel à une classification par niveau de difficulté—I à VI– lorsqu’elles sont réalisées. Le classement de nos ESIN doit avoir pour fonction de caractériser nos usages, renforcer la sécurité de nos sites, les faire reconnaître par l’Etat et les collectivités, faire du club le référents dans la gestion de ces ESIN. Le club n’est pas suffisamment reconnu comme référent, acteur, gestionnaire d’un espace ou d’un site de pratique par l’Etat et les collectivités.
+  - Les sentiers nautiques développés par le siège sont limités en nombre (7) et peinent à se développer. Il faut en faire le bilan afin de réguler notre politique dans ce domaine.
+  - Les outils topo-guides sont développés par d’autres acteurs— Ex: EVO eauxvives.org— .
+  - Les initiatives des clubs, CDCK et CRCK dans le domaine de l’édition de topo-guides ne sont pas coordonnées.
+  - Le code du sport: « Les sports de nature s'exercent dans des espaces ou sur des sites et itinéraires / les fédérations sportives délégataires ..peuvent définir, chacune pour leur discipline, les normes de classement technique, de sécurité et d'équipement des espaces, sites et itinéraires relatifs aux sports de nature...Le département favorise le développement maîtrisé des sports de nature. A cette fin, il élabore un plan départemental des espaces, sites et itinéraires relatifs aux sports de nature. «
+  - Notre fédération assure des missions garantissant l’accès à l’eau pour tous y compris pour les pratiquants non licenciés qui fonctionnent en dehors de toute structure et qui échappent à l’éducation –technique, sécurité, environnementfaite par nos clubs. La question de la redevance pour l’accès à l’eau peut être posée à un moment donné par les pouvoirs publics.
+  - Les dernières dispositions règlementaires en matière de sécurité laissent une large place à la responsabilité des clubs dans l’exemption de certains dispositifs de sécurité pour leurs adhérents. Un accompagnement des clubs est nécessaire dans ce domaine. La sécurité et la responsabilité de nos cadres et dirigeants doivent rester une préoccupation majeure.
 
 ### Comment
+
+  - S’associer avec les autres fédérations de sport nature pour que nos actions en faveur de l’environnement soient reconnues.
+  - Etudier l'opportunité et la faisabilité pour des structures fédérales, d'obtenir des compétences reconnues par l'administration pour la gestion des ESIN.
+  - Prendre en compte et intégrer le fonctionnement de l'administration sur les problématiques environnementales et LEMA.
+  - Réactualiser le mémento juridique afin d’y intégrer les nouvelles normes règlementaires.
+  - Engager les actions juridiques nécessaires en cas d’atteinte à la libre circulation sur nos ESIN.
+  - Réexaminer l’organisation de nos services centraux et les moyens dédiés à cette politique — structuration de nos services, personnels, budget—.
+  - Revoir l’organisation de nos instances :
+    - Réexaminer le périmètre et la dénomination de la commission patrimoine nautique. Cette dénomination n’a de sens que pour les initiés. Il faut intégrer les notions d’Infrastructures et d’équipements et celles d’espaces sites et itinéraires de navigation sur nos 3 milieux: eau calme, eau vive, mer. La composition de la commission doit permettre de répondre à ces orientations et d’associer les personnes dont les compétences s’avèrent nécessaires.
+    - Une représentation de la commission nationale au sein du Bureau exécutif—BEX– permettra de prendre en compte cette question à la hauteur des enjeux qu’elle représente.
+    - Prendre en compte la dimension des bassins versants dans l’organisation de nos politiques territoriales. Ex : commissions calquées sur les bassin versants.
+    - Positionner les CDCK comme le niveau ad hoc pour la gestion de la classification de nos ESIN et nos régions de façon subsidiaire en référence au code du sport-.
+    - faire du club, le référent s’agissant de ses ESIN afin qu’il soit reconnu comme tel auprès des collectivités locales et territoriales et de façon subsidiaire nos organes déconcentrés—CDCK, CRCK-. réseau des sentinelles des ESIN, des gardiens de rivières, entretien des ESIN, projets d’aménagements, descriptif des ESIN etc.
+  - Recenser—répertorier—classer—labelliser— nos ESIN :
+    - Revoir nos modalités de classement de nos sites, espaces et itinéraires de pratiques pour aller au-delà de la simple classification en niveaux de difficultés.
+    - Pour cela mettre en place des expérimentations pilotes sur certains départements afin d’en étudier le principe avant de le généraliser.
+    - Etudier la faisabilité de la mise en place d’un service WEBSIG—service collaboratif de gestion des informations géographiques— permettant de recenser nos sites de pratiques et d’éditer des outils—ex: topos guides.
+    - Etudier les possibilités de partenariats pour le développement des outils WEBSIG —Institut national géographique -IGN— Agences de l’eau— Services SIG de nos départements.

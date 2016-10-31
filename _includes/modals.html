@@ -30,8 +30,50 @@
                                     </strong>
                                 </li>
                             </ul> -->
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+                            <div class="modal-content-text" style="text-align:justify;">
+                              <h3>Une question ? Une remarque ?</h3>
+                              <p>N'hésitez pas à nous en faire part !</p>
+                            </div>
+                            <!-- <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button> -->
                         </div>
+<div class="row">
+<div class="modal-content-text" style="text-align:justify;">
+</div>
+    <div class="col-lg-12">
+        <form name="sentMessage" id="contactForm" action="https://formspree.io/vincent.lecrubier@gmail.com"
+method="POST" novalidate>
+<!-- <input type="hidden" name="_cc" value="zoungrana.jean@orange.fr,annelaureviard@orange.fr,jgaspard.ic@gmail.com,Emmanuel.Girard@univ-nantes.fr,frseseiler@gmail.com,ludovicroye@gmail.com" /> -->
+            <input type="hidden" name="sujet" value="{{ post.title }}" />
+            <input type="hidden" name="_next" value="/merci-message" />
+            <input type="text" name="_gotcha" style="display:none" />
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="control-group form-group">
+                        <input type="text" class="form-control" placeholder="Votre nom *" id="name" required data-validation-required-message="Merci d'entrer votre nom." name="name">
+                        <p class="help-block text-danger"></p>
+                    </div>
+                    <div class="control-group form-group">
+                        <input type="email" class="form-control" placeholder="Votre adresse email *" id="email" required data-validation-required-message="Merci d'entrer votre adresse email." name="email">
+                        <p class="help-block text-danger"></p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="control-group form-group">
+                        <textarea class="form-control" placeholder="Votre message *" id="message" required data-validation-required-message="Merci d'entrer votre message." name="message"></textarea>
+                        <p class="help-block text-danger"></p>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <div class="col-lg-12 text-center">
+                    <div id="success"></div>
+                    <button type="submit" class="btn btn-xl" value="Send">Envoyer</button>
+
+                </div>
+              <button style="margin-top:20px;" type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+            </div>
+        </form>
+    </div>
+</div>
                     </div>
                 </div>
             </div>

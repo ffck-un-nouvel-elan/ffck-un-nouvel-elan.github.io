@@ -4,8 +4,8 @@ subtitle: Acteurs de notre developpement
 layout: page
 modal-id: 4
 date: 2016-10-25
-img: regions-france.jpg
-thumbnail: nos-clubs-thumbnail.jpg
+img: 04 Territoires.jpg
+thumbnail: 04 Territoires.jpg
 category: projet
 ---
 

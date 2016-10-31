@@ -4,8 +4,8 @@ subtitle: Ce qui fonde nos actions
 layout: page
 modal-id: 2
 date: 2016-10-27
-img: nos-valeurs-thumbnail.jpg
-thumbnail: nos-valeurs-thumbnail.jpg
+img: 02 Valeurs.jpg
+thumbnail: 02 Valeurs.jpg
 category: projet
 ---
 
