@@ -5,7 +5,7 @@ layout: page
 modal-id: 7
 date: 2016-10-22
 img: 07 Pratiquants.jpg
-thumbnail: 07 Pratiquants.jpg
+thumbnail: 07 Pratiquants thumbnail.jpg
 category: projet
 comments: true
 ---

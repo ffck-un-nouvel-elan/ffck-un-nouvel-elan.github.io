@@ -5,7 +5,7 @@ layout: page
 modal-id: 5
 date: 2016-10-24
 img: 05 Clubs.jpg
-thumbnail: 05 Clubs.jpg
+thumbnail: 05 Clubs thumbnail.jpg
 category: projet
 comments: true
 ---

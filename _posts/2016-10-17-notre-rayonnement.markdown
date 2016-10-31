@@ -5,7 +5,7 @@ layout: page
 modal-id: 12
 date: 2016-10-17
 img: 12 Rayonnement.jpg
-thumbnail: 12 Rayonnement.jpg
+thumbnail: 12 Rayonnement thumbnail.jpg
 category: projet
 comments: true
 ---

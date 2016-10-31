@@ -5,7 +5,7 @@ layout: page
 modal-id: 6
 date: 2016-10-23
 img: 06 Pratiques.jpg
-thumbnail: 06 Pratiques.jpg
+thumbnail: 06 Pratiques thumbnail.jpg
 category: projet
 comments: true
 ---

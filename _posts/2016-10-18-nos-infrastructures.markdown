@@ -5,7 +5,7 @@ layout: page
 modal-id: 11
 date: 2016-10-18
 img: 11 Infratructures.jpg
-thumbnail: 11 Infratructures.jpg
+thumbnail: 11 Infratructures thumbnail.jpg
 category: projet
 comments: true
 ---

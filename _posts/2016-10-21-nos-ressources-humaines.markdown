@@ -5,7 +5,7 @@ layout: page
 modal-id: 8
 date: 2016-10-21
 img: 08 Ressources humaines.jpg
-thumbnail: 08 Ressources humaines.jpg
+thumbnail: 08 Ressources humaines thumbnail.jpg
 category: projet
 comments: true
 ---

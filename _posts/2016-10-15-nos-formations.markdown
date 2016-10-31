@@ -5,7 +5,7 @@ layout: page
 modal-id: 14
 date: 2016-10-15
 img: 14 Formations.jpg
-thumbnail: 14 Formations.jpg
+thumbnail: 14 Formations thumbnail.jpg
 category: projet
 comments: true
 ---

@@ -5,7 +5,7 @@ layout: page
 modal-id: 13
 date: 2016-10-16
 img: 13 Haut niveau.jpg
-thumbnail: 13 Haut niveau.jpg
+thumbnail: 13 Haut niveau thumbnail.jpg
 category: projet
 comments: true
 ---

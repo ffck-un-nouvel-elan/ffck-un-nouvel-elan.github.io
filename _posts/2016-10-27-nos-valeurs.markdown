@@ -5,7 +5,7 @@ layout: page
 modal-id: 2
 date: 2016-10-27
 img: 02 Valeurs.jpg
-thumbnail: 02 Valeurs.jpg
+thumbnail: 02 Valeurs thumbnail.jpg
 category: projet
 comments: true
 ---

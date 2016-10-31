@@ -5,7 +5,7 @@ layout: page
 modal-id: 1
 date: 2016-10-28
 img: 01 Identité.jpg
-thumbnail: 01 Identité.jpg
+thumbnail: 01 Identité thumbnail.jpg
 category: projet
 comments: true
 ---

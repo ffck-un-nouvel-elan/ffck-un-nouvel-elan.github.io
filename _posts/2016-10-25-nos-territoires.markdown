@@ -5,7 +5,7 @@ layout: page
 modal-id: 4
 date: 2016-10-25
 img: 04 Territoires.jpg
-thumbnail: 04 Territoires.jpg
+thumbnail: 04 Territoires thumbnail.jpg
 category: projet
 comments: true
 ---
