@@ -53,7 +53,7 @@ Une dizaine de disciplines et pratiques différentes —Slalom, Descente, cours
 #### Nos sites et infrastructures
 
   - Des disciplines qui se pratiquent sur 3 milieux différents— eau calme, eau vive, mer –
-  - Un maillage d’infrastructures pour l’accueil de nos adhé- rents.
+  - Un maillage d’infrastructures pour l’accueil de nos adhérents.
   - Des sites diversifiés: espaces d’eaux vives, sites naturels, espaces naturels aménagés, rivières, plans d’eau intérieurs, mer.
 
 #### Nos ressources humaines

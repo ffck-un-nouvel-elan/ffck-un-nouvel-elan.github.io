@@ -20,7 +20,7 @@ comments: true
   - L’ouverture vers les autres
   - Le respect de soi, des autres, de notre environnement et de nos sites de pratique,
   - La formation et la transmission
-  - La recherche de l’excellence et du plus haut niveau de pratique pour chacun de nos pratiquants – du débutant au médaillé olympique - à des fins de per- formance et de compétition mais aussi de loisir, de santé, ou éducatives
+  - La recherche de l’excellence et du plus haut niveau de pratique pour chacun de nos pratiquants – du débutant au médaillé olympique - à des fins de performance et de compétition mais aussi de loisir, de santé, ou éducatives
 
 **Restent des valeurs essentielles.**
 
@@ -30,7 +30,7 @@ comments: true
   - Face aux **tendances à l’individualisme**, au développement des pratiques hors structures, au mercantilisme, les **valeurs associatives d’engagement bénévole**, d’amitié, de partage et de respect de l’autre doivent être les ciments de nos relations.
   - La solidarité nait d’une **pratique à plusieurs dans des milieux nécessitant une assistance mutuelle** pour naviguer en sécurité.
   - **L’ouverture vers les autres** nous permet de créer du lien, d’élargir nos connaissances, de confronter nos points de vue, de créer des synergies.
-  - **La transmission est une valeur essentielle** : Transmission de nos valeurs, de nos connaissances techniques. Il constitue un lien fort entre pratiquants. Cette transmission porte aus- si sur notre histoire et suppose une politique de récolte , d’archivage et d’exploitation de nos données. La connais- sance de cette histoire est un moyen permettant de renfor- cer notre identité.
+  - **La transmission est une valeur essentielle** : Transmission de nos valeurs, de nos connaissances techniques. Il constitue un lien fort entre pratiquants. Cette transmission porte aussi sur notre histoire et suppose une politique de récolte , d’archivage et d’exploitation de nos données. La connaissance de cette histoire est un moyen permettant de renforcer notre identité.
   - Dans cette perspective l’atteinte du plus haut niveau d’excellence pour tous est un objectif à atteindre.
 
 
