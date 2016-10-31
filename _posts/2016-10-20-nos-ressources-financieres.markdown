@@ -4,8 +4,8 @@ subtitle: Agir sur nos leviers économiques
 layout: page
 modal-id: 9
 date: 2016-10-20
-img: 09 Ressources financières.jpg
-thumbnail: 09 Ressources financières thumbnail.jpg
+img: 09 Ressources financieres.jpg
+thumbnail: 09 Ressources financieres thumbnail.jpg
 category: projet
 comments: true
 ---

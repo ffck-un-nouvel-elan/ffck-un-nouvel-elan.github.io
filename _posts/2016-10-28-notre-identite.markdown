@@ -4,8 +4,8 @@ subtitle: Ce que nous sommes
 layout: page
 modal-id: 1
 date: 2016-10-28
-img: 01 Identité.jpg
-thumbnail: 01 Identité thumbnail.jpg
+img: 01 Identite.jpg
+thumbnail: 01 Identite thumbnail.jpg
 category: projet
 comments: true
 ---
