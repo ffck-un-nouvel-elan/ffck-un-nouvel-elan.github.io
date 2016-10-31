@@ -7,6 +7,7 @@ date: 2016-10-19
 img: 10 Sites de pratique.jpg
 thumbnail: 10 Sites de pratique.jpg
 category: projet
+comments: true
 ---
 
 ### Nos priorités

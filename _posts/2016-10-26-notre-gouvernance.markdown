@@ -7,6 +7,7 @@ date: 2016-10-26
 img: 03 Gouvernance.jpg
 thumbnail: 03 Gouvernance.jpg
 category: projet
+comments: true
 ---
 
 ### Nos priorités

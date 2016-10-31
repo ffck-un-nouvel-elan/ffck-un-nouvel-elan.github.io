@@ -7,6 +7,7 @@ date: 2016-10-18
 img: 11 Infratructures.jpg
 thumbnail: 11 Infratructures.jpg
 category: projet
+comments: true
 ---
 
 ### Nos priorités

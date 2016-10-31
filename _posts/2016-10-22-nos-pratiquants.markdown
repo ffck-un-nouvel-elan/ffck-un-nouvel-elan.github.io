@@ -7,6 +7,7 @@ date: 2016-10-22
 img: 07 Pratiquants.jpg
 thumbnail: 07 Pratiquants.jpg
 category: projet
+comments: true
 ---
 
 ### Nos priorités

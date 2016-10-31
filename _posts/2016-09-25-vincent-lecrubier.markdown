@@ -7,6 +7,7 @@ date: 2016-10-25
 img: vincent.jpg
 thumbnail: vincent.jpg
 category: equipe
+comments: false
 ---
 
 Né en 1986, j’ai débuté le canoë-kayak de course en ligne au club de Saint Grégoire à l’âge de 9ans. J’y ai appris la valeur et la puissance de la passion, grâce à l’énergie de bénévoles comme Gillette et René Trégaro et mes parents, Sylvie et Gibert Lecrubier. Cette énergie collective m’a permis de contribuer au développement sportif du club, jusqu’à lui faire atteindre la 2ème place au classement national. J’ai gagné plus de 45 médailles en championnat de France avec 15 équipiers différents.

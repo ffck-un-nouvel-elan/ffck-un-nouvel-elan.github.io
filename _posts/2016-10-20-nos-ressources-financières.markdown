@@ -7,6 +7,7 @@ date: 2016-10-20
 img: 09 Ressources financières.jpg
 thumbnail: 09 Ressources financières.jpg
 category: projet
+comments: true
 ---
 
 ### Nos priorités

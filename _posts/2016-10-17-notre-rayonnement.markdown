@@ -7,6 +7,7 @@ date: 2016-10-17
 img: 12 Rayonnement.jpg
 thumbnail: 12 Rayonnement.jpg
 category: projet
+comments: true
 ---
 
 ### Nos priorités

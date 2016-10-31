@@ -30,12 +30,15 @@
                                     </strong>
                                 </li>
                             </ul> -->
+{% if post.comments %}
                             <div class="modal-content-text" style="text-align:justify;">
                               <h3>Une question ? Une remarque ?</h3>
                               <p>N'hésitez pas à nous en faire part !</p>
                             </div>
+{% endif %}
                             <!-- <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button> -->
                         </div>
+{% if post.comments %}
 <div class="row">
 <div class="modal-content-text" style="text-align:justify;">
 </div>
@@ -69,11 +72,13 @@ method="POST" novalidate>
                     <button type="submit" class="btn btn-xl" value="Send">Envoyer</button>
 
                 </div>
-              <button style="margin-top:20px;" type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+
             </div>
         </form>
     </div>
 </div>
+{% endif %}
+              <button style="margin-top:20px;" type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
                     </div>
                 </div>
             </div>

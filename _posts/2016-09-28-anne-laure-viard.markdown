@@ -7,6 +7,7 @@ date: 2016-10-26
 img: anne-laure.jpg
 thumbnail: anne-laure.jpg
 category: equipe
+comments: false
 ---
 
 Nee en 1981, j'ai debute le kayak de course en ligne en 1991 au club d'Auxonne (Cote d'Or). J'ai obtenu mon 1er titre de championne de France mini me en 1995, ma 1e,e selection en equipe de France junior en 1998 et j'ai integre l'equipe de France senior en 2001. Je suis medaillée de bronze aux JO de Pekin 2008 en k2 500m et 1Qeme aux JO d'Athenes 2004 en k2 500m. Je suis triple medaillee de bronze aux championnats du monde (2005, 2007 et 2009) et triple medaillee de bronze aux championnats d'Europe (2004, 2005 et 2006). J'ai mis un terme a ma carriere au debut de l'annee 2010. Apres quelques annees d'arret, j'ai repris les competitions au niveau national en 2014 avec le club de Creteil.

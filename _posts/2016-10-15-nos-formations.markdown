@@ -7,6 +7,7 @@ date: 2016-10-15
 img: 14 Formations.jpg
 thumbnail: 14 Formations.jpg
 category: projet
+comments: true
 ---
 
 ### Nos priorités

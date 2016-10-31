@@ -7,6 +7,7 @@ date: 2016-10-28
 img: 01 Identité.jpg
 thumbnail: 01 Identité.jpg
 category: projet
+comments: true
 ---
 
 ### Quelques chiffres

@@ -7,6 +7,7 @@ date: 2016-10-26
 img: francoise.jpg
 thumbnail: francoise.jpg
 category: equipe
+comments: false
 ---
 
 Nee en 1960 je suis arrivee dans le monde du kayak grace a mon fils aîné qui a ete inscrit au club de Vaureal (95) en 1994. Mon parcours n'est pas celui d'une sportive, mais d'une benevole au service de mon club et des instances departementales, regionales et nationales de notre federation. J'ai fait comme beaucoup de meres « Madame Navette » pour les deplacements, decouvertes de rivieres et competitions. Pour des raisons personnelles je me suis installee dans le sud pres de Beziers, ou je me suis inscrite avec ma petite famille au club de Cessenon sur Orb. Je suis devenue la secretaire du club en 2000, poste que j'occupe encore aujourd'hui. J'ai occupe la fonction de secretaire du Comite Departemental de 2000 a 2012 puis celle de membre du bureau. Au Comite Regional j'ai ete membre du Conseil d'Administration puis Presidente de la Commission Slalom depuis 2010. J'ai ete formee au poste de Juge Arbitre National, puis je suis devenue Formatrice du Languedoc Roussillon. J'ai rejoint le groupe de la Commission Nationale de Slalom en 2010 ou j'ai pris la responsabilite du jugement en 2011. Lors des plenieres de 2012 je me suis presentee dans le groupe qui a ete elu pour l'Olympiade. Je m'occupe toujours du jugement et de la gestion des Juges Arbitres sur les courses Nationales.

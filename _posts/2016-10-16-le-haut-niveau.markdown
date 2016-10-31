@@ -7,6 +7,7 @@ date: 2016-10-16
 img: 13 Haut niveau.jpg
 thumbnail: 13 Haut niveau.jpg
 category: projet
+comments: true
 ---
 
 ### Nos priorités

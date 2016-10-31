@@ -7,6 +7,7 @@ date: 2016-10-21
 img: 08 Ressources humaines.jpg
 thumbnail: 08 Ressources humaines.jpg
 category: projet
+comments: true
 ---
 
 ## Nos cadres techniques et personnels des services centraux

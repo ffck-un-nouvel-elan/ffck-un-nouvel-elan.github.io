@@ -7,6 +7,7 @@ date: 2016-10-27
 img: 02 Valeurs.jpg
 thumbnail: 02 Valeurs.jpg
 category: projet
+comments: true
 ---
 
 ### Nos valeurs

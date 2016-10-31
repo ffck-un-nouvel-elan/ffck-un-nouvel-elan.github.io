@@ -7,6 +7,7 @@ date: 2016-10-25
 img: 04 Territoires.jpg
 thumbnail: 04 Territoires.jpg
 category: projet
+comments: true
 ---
 
 ### Nos priorités
