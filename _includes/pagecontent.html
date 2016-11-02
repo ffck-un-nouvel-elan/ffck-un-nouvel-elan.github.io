@@ -4,7 +4,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ page.title }}<a class="nocolor" href='/' style="position:absolute; right:10px; top:10px;margin:10px;"><i class="fa fa-times"></i></a></h2>
+                            <h2>{{ page.title }}<a class="nocolor" href='/#{{page.modal-id}}' style="position:absolute; right:10px; top:10px;margin:10px;"><i class="fa fa-times"></i></a></h2>
                             <hr class="star-primary">
                             <img src="/img/portfolio/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.title }}">
                             <div class="modal-content-text" style="text-align:justify;">{{ page.content }}</div>
@@ -70,7 +70,7 @@ method="POST" novalidate>
     </div>
 </div>
 {% endif %}
-            <a href='/'>
+            <a href='/#{{page.modal-id}}'>
                 <button style="margin:20px 0px 20px 0px;" type="button" class="btn btn-default btn-xl" >
                   <i class="fa fa-times"></i> Retour
                 </button>
