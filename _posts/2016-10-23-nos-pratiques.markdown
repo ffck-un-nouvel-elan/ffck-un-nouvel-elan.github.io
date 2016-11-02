@@ -8,6 +8,7 @@ img: 06 Pratiques.jpg
 thumbnail: 06 Pratiques thumbnail.jpg
 category: projet
 comments: true
+permalink: nos-pratiques
 ---
 
 ### Nos priorités

@@ -8,6 +8,7 @@ img: 10 Sites de pratique.jpg
 thumbnail: 10 Sites de pratique thumbnail.jpg
 category: projet
 comments: true
+permalink: nos-sites
 ---
 
 ### Nos priorités

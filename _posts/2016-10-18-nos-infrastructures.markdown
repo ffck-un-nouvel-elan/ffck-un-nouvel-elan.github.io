@@ -8,6 +8,7 @@ img: 11 Infrastructures.jpg
 thumbnail: 11 Infrastructures thumbnail.jpg
 category: projet
 comments: true
+permalink: nos-infrastructures
 ---
 
 ### Nos priorités

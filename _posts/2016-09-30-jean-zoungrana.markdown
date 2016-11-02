@@ -2,12 +2,13 @@
 title: Jean Zoungrana
 subtitle: Président
 layout: page
-modal-id: President
+modal-id: jean-zoungrana
 date: 2016-10-26
 img: jean.jpg
 thumbnail: jean.jpg
 category: equipe
 comments: false
+permalink: jean-zoungrana
 ---
 
 Ne en 1956, j'ai commencé la pratique du canoe-kayak en 1968 au club de Guingamp. J'y ai évolué a partir d'une pratique polyvalente - slalom, descente, course en ligne -jusqu'a atteindre un niveau équipe de France en Junior.

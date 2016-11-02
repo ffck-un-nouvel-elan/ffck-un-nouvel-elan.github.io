@@ -8,6 +8,7 @@ img: 09 Ressources financieres.jpg
 thumbnail: 09 Ressources financieres thumbnail.jpg
 category: projet
 comments: true
+permalink: nos-ressources-financieres
 ---
 
 ### Nos priorités

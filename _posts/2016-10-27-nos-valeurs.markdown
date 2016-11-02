@@ -8,6 +8,7 @@ img: 02 Valeurs.jpg
 thumbnail: 02 Valeurs thumbnail.jpg
 category: projet
 comments: true
+permalink: nos-valeurs
 ---
 
 ### Nos valeurs

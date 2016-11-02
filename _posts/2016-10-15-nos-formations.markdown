@@ -8,6 +8,7 @@ img: 14 Formations.jpg
 thumbnail: 14 Formations thumbnail.jpg
 category: projet
 comments: true
+permalink: nos-formations
 ---
 
 ### Nos priorités

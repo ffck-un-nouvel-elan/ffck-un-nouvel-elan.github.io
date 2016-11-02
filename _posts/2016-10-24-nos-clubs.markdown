@@ -8,6 +8,7 @@ img: 05 Clubs.jpg
 thumbnail: 05 Clubs thumbnail.jpg
 category: projet
 comments: true
+permalink: nos-clubs
 ---
 
 ### Nos priorités

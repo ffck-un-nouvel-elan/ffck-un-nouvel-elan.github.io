@@ -8,6 +8,7 @@ img: 03 Gouvernance.jpg
 thumbnail: 03 Gouvernance thumbnail.jpg
 category: projet
 comments: true
+permalink: notre-gouvernance
 ---
 
 ### Nos priorités

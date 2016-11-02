@@ -2,12 +2,13 @@
 title: Julien Gaspard
 subtitle: Vice Président
 layout: page
-modal-id: VicePresident1
+modal-id: julien-gaspard
 date: 2016-10-26
 img: julien.jpg
 thumbnail: julien.jpg
 category: equipe
 comments: false
+permalink: julien-gaspard
 ---
 
 Ne en 1983, j'ai débuté le canoe-kayak a l'age de 7 ans au club de Golbey - Epinal - St Nabord (GESN). J'y ai appris les bases de- l'activité en pratiquant plusieurs disciplines jusqu'en cadet. Ensuite, je me suis specialise en slalom ou j'ai eu plusieurs selections en équipe de France de canoe biplace.

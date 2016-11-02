@@ -8,6 +8,7 @@ img: 01 Identite.jpg
 thumbnail: 01 Identite thumbnail.jpg
 category: projet
 comments: true
+permalink: notre-identite
 ---
 
 ### Quelques chiffres

@@ -2,12 +2,13 @@
 title: Emmanuel Girard
 subtitle: Secretaire Général
 layout: page
-modal-id: SecretaireGeneral
+modal-id: emmanuel-girard
 date: 2016-10-26
 img: emmanuel.jpg
 thumbnail: emmanuel.jpg
 category: equipe
 comments: false
+permalink: emmanuel-girard
 ---
 
 Ne en 1955, mes activités de canoe kayak ont débuté en 1971, au Club de Caen avec un monitorat CK en 1976, pour faire partager la pratique du canoe kayak. Dix années de présidence du Club de Saint-Nazaire, deux années de vice Présidence du COCK 44, j'ai rejoint la Commission Nationale Merathon (Ocean Racing) en 1997 avant d'être élu, en 2000, a la Présidence de celle-ci. Avec les membres de la commission, nous avons réussi a developper les activités de competition en mer avec les courses de surf-ski et de pirogue.

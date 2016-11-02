@@ -8,6 +8,7 @@ img: 12 Rayonnement.jpg
 thumbnail: 12 Rayonnement thumbnail.jpg
 category: projet
 comments: true
+permalink: notre-rayonnement
 ---
 
 ### Nos priorités

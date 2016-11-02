@@ -8,6 +8,7 @@ img: 04 Territoires.jpg
 thumbnail: 04 Territoires thumbnail.jpg
 category: projet
 comments: true
+permalink: nos-territoires
 ---
 
 ### Nos priorités

@@ -8,6 +8,7 @@ img: 13 Haut niveau.jpg
 thumbnail: 13 Haut niveau thumbnail.jpg
 category: projet
 comments: true
+permalink: le-haut-niveau
 ---
 
 ### Nos priorités
