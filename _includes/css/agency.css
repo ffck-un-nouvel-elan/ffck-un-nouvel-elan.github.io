@@ -830,6 +830,7 @@ ul.social-buttons li a:active {
 .modal-content-text {
     text-align: justify;
     margin-bottom: 40px;
+    margin-top:30px;
 }
 
 .modal-content-text p{
@@ -908,4 +909,12 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.nocolor {
+  color:#333;
+}
+
+.nocolor:hover {
+  color:#333;
 }

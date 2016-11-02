@@ -27,7 +27,7 @@
                 {% for post in site.categories.equipe %}
                 <div class="col-sm-4">
                   <div class="team-member">
-                      <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal" style="display:flex;justify-content:space-around;align-items:center;">
+                        <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal" style="display:flex;justify-content:space-around;align-items:center;">
                           <div class="portfolio-hover" style="flex-basis:225px;">
                               <div class="portfolio-hover-content">
                                   <i>{{ post.subtitle }}</i>
@@ -35,6 +35,7 @@
                           </div>
                           <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-circle" width=225 height=225 alt="">
                       </a>
+                        <a href="{{ post.url }}" class="nocolor">
                       <div class="portfolio-caption">
                           <h4>{{ post.title }}</h4>
                           <p class="text-muted">{{ post.subtitle }}</p>
@@ -48,6 +49,7 @@
                             {% endfor %}
                           </ul>
                       </div>
+</a>
                   </div>
                 </div>
                 {% endfor %}

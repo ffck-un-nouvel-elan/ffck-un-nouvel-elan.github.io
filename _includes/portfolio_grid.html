@@ -31,7 +31,7 @@
         <div class="row">
             {% for post in site.categories.projet %}
             <div class="col-md-4 col-sm-6 portfolio-item">
-                <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i>{{ post.modal-id }}</i>
@@ -39,10 +39,12 @@
                     </div>
                     <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                 </a>
+                <a href="{{post.url}}" class="nocolor">
                 <div class="portfolio-caption">
                     <h4>{{ post.title }}</h4>
                     <p class="text-muted">{{ post.subtitle }}</p>
                 </div>
+                </a>
             </div>
             {% endfor %}
         </div>
