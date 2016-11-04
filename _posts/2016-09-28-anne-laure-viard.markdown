@@ -5,7 +5,7 @@ layout: page
 modal-id: anne-laure-viard
 date: 2016-10-26
 img: anne-laure.jpg
-thumbnail: anne-laure.jpg
+thumbnail: anne-laure-thumbnail.jpg
 category: equipe
 comments: false
 permalink: anne-laure-viard

@@ -5,7 +5,7 @@ layout: page
 modal-id: jean-zoungrana
 date: 2016-10-26
 img: jean.jpg
-thumbnail: jean.jpg
+thumbnail: jean-thumbnail.jpg
 category: equipe
 comments: false
 permalink: jean-zoungrana

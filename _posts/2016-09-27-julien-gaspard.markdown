@@ -5,7 +5,7 @@ layout: page
 modal-id: julien-gaspard
 date: 2016-10-26
 img: julien.jpg
-thumbnail: julien.jpg
+thumbnail: julien-thumbnail.jpg
 category: equipe
 comments: false
 permalink: julien-gaspard

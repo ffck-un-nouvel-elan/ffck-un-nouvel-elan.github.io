@@ -5,7 +5,7 @@ layout: page
 modal-id: vincent-lecrubier
 date: 2016-10-25
 img: vincent.jpg
-thumbnail: vincent.jpg
+thumbnail: vincent-thumbnail.jpg
 category: equipe
 comments: false
 permalink: vincent-lecrubier

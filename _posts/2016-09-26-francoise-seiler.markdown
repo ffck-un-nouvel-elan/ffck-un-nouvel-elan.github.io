@@ -5,7 +5,7 @@ layout: page
 modal-id: francoise-seiler
 date: 2016-10-26
 img: francoise.jpg
-thumbnail: francoise.jpg
+thumbnail: francoise-thumbnail.jpg
 category: equipe
 comments: false
 permalink: francoise-seiler

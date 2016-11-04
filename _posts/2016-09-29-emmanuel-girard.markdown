@@ -5,7 +5,7 @@ layout: page
 modal-id: emmanuel-girard
 date: 2016-10-26
 img: emmanuel.jpg
-thumbnail: emmanuel.jpg
+thumbnail: emmanuel-thumbnail.jpg
 category: equipe
 comments: false
 permalink: emmanuel-girard
