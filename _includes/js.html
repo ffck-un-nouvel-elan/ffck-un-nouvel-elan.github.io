@@ -7,11 +7,121 @@
     <!-- Plugin JavaScript -->
     <script src="{{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/js/classie.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
+    <!-- <script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script> -->
+<script type="text/javascript">
+var cbpAnimatedHeader = (function() {
+
+	var docElem = document.documentElement,
+		header = document.querySelector( '.navbar-fixed-top' ),
+		didScroll = false,
+		changeHeaderOn = 300;
+
+	function init() {
+		window.addEventListener( 'scroll', function( event ) {
+			if( !didScroll ) {
+				didScroll = true;
+				setTimeout( scrollPage, 250 );
+			}
+		}, false );
+	}
+
+	function scrollPage() {
+		var sy = scrollY();
+		if ( sy >= changeHeaderOn ) {
+			classie.add( header, 'navbar-shrink' );
+		}
+		else {
+			classie.remove( header, 'navbar-shrink' );
+		}
+		didScroll = false;
+	}
+
+	function scrollY() {
+		return window.pageYOffset || docElem.scrollTop;
+	}
+
+	init();
+
+})();
+</script>
 
     <!-- Contact Form JavaScript -->
     <script src="{{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/contact_me.js" | prepend: site.baseurl }}"></script>
+
+
+    <!-- <script src="{{ "/js/contact_me.js" | prepend: site.baseurl }}"></script> -->
+<script type="text/javascript">
+$(function() {
+
+    $("input,textarea").jqBootstrapValidation({
+        preventSubmit: true,
+        submitError: function($form, event, errors) {
+            // additional error messages or events
+        },
+        submitSuccess: function($form, event) {
+
+                    $('#success').html("<div class='alert alert-success'>");
+                    $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+                        .append("</button>");
+                    $('#success > .alert-success')
+                        .append("<strong>Merci ! Votre message a été envoyé </strong>");
+                    $('#success > .alert-success')
+                        .append('</div>');
+
+        },
+        filter: function() {
+            return $(this).is(":visible");
+        },
+    });
+
+    $("a[data-toggle=\"tab\"]").click(function(e) {
+        e.preventDefault();
+        $(this).tab("show");
+    });
+});
+
+
+/*When clicking on Full hide fail/success boxes */
+$('#name').focus(function() {
+    $('#success').html('');
+});
+</script>
+
+
+
 
     <!-- Custom Theme JavaScript -->
-    <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+    <!-- <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script> -->
+<script type="text/javascript">
+// jQuery for page scrolling feature - requires jQuery Easing plugin
+$(function() {
+    $('a.page-scroll').bind('click', function(event) {
+        var $anchor = $(this);
+        $('html, body').stop().animate({
+            scrollTop: $($anchor.attr('href')).offset().top
+        }, 1500, 'easeInOutExpo');
+        event.preventDefault();
+    });
+});
+
+// Highlight the top nav as scrolling occurs
+$('body').scrollspy({
+    target: '.navbar-fixed-top'
+})
+
+// Closes the Responsive Menu on Menu Item Click
+$('.navbar-collapse ul li a').click(function() {
+    $('.navbar-toggle:visible').click();
+});
+
+$('div.modal').on('show.bs.modal', function() {
+	var modal = this;
+	var hash = modal.id;
+	window.location.hash = hash;
+	window.onhashchange = function() {
+		if (!location.hash){
+			$(modal).modal('hide');
+		}
+	}
+});
+</script>
