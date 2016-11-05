@@ -918,3 +918,11 @@ body {
 .nocolor:hover {
   color:#333;
 }
+
+.nocolormuted {
+  color:#{{ site.data.template.color.muted }};
+}
+
+.nocolormuted:hover {
+  color:#{{ site.data.template.color.muted }};
+}
